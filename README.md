@@ -1,3 +1,5 @@
 ## Nicolas Colosso's Resume Repository
 
-This resume was created using a plain text format. For the PDF version of it, click [here](https://github.com/ncolosso/Resume/files/998162/Resume.pdf).
+This repository includes my resume created in plain text format, and in simple HTML.
+
+For the PDF version of it, click [here](https://github.com/ncolosso/Resume/files/998162/Resume.pdf).
